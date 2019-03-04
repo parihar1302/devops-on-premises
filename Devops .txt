@@ -1,0 +1,11 @@
+What is DevOps and where did it come from?
+How does DevOps differ from Agile?
+How does DevOps differ from ITIL or ITSM?
+How does DevOps fit with VisibleOps?
+What are the underpinning principles of DevOps?
+What are the areas of DevOps patterns?
+What is the value of DevOps?
+How does Infosec and QA integrate into a DevOps work stream?
+My DevOps Favorite Pattern #1
+My DevOps Favorite Pattern #2
+My DevOps Favorite Pattern #3

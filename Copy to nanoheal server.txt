@@ -1,0 +1,21 @@
+How to copy files to Nanoheal server via slogin server,
+
+
+1.Connect slogin server via winscp with the given username and password
+2.Go to /nanoheal in winscp
+3.Now copy the files from local to slogin server /nanoheal location via winscp
+4.After files are uploaded to the slogin server
+5.Login to slogin server via putty
+6.go to /nanoheal
+7.through scp command copy the files from slogin to required server,
+
+eg : copying 1.txt from slogin to Pilot server /mysqlbackup location
+
+Login to Pilot server, and go to /mysqlbackup location
+
+scp  your-slogin-username@slogin.nanoheal.com:/nanoheal/1.txt .
+Password is, your slogin-password
+
+Once copied you can see the 1.txt file in pilot server /mysqlbackup location.
+
+Nanoheal Devops
